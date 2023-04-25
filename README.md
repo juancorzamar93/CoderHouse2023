@@ -1,3 +1,6 @@
 # CoderHouse2023
-Primera entrega:
--Buscar y subir 3 datasets con los requisitos que cumplan el desafío y luego el datasets elegido es la que vas a trabajar durante todo el curso.
+Profesor: Jonathan Domínguez
+Tutora: Aldana Ruscitti
+Alumno: Juan Cortez Zamar
+
+Aquí voy a subir los desafíos que voy realizando a lo largo del cursado cumpliendo con los requisitos y objetivos  que se requieren para aprobar mientra van dictando nuevos temas que son útiles para el aprendizaje, prácticas y sobre todo aquirir nuevos conocimientos que me va a servir para ser Data Scientist.
